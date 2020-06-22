@@ -1,0 +1,22 @@
+body {
+    font-family: sans-serif;
+    background-color: white;
+    text-align: center;
+}
+
+.links {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+a {
+    color: black;
+    border: 50px;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #555;
+}
